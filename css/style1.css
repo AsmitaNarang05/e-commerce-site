@@ -1,0 +1,145 @@
+@media (min-width:320px) and (max-width:768px)
+{
+	.social_icon ul
+{
+	padding-top:20px;
+	padding-left:0;
+	padding-right:0;
+}
+
+.header_icons ul 
+{
+	padding-left:0;
+	padding-right:0;
+	padding-top:10px;
+}
+.logo
+{
+	padding-left:0;
+}
+.details ul
+{
+	padding-top:30px;
+	padding-left:0;
+	padding-right:0;
+}
+	.details ul li a
+	{
+		font-size:12px;
+	}
+	.details ul li i
+	{
+		font-size:18px;
+	}
+	.search_bar i
+	{
+		margin-bottom:20px;
+	}
+	.text p
+	{
+		font-size:23px;
+		margin-top:-6px;
+	}
+
+.text h2
+{
+	font-size:34px;
+}
+.text h4
+{
+	margin-left:16px;
+}
+.white
+{
+	display:none;
+}
+.white2
+{
+	display:none;
+}
+.content h3
+{
+	font-size:24px;
+	margin-left:0px;
+}
+
+.textile
+{
+	max-width:100%;
+	height:auto;
+}
+.textile
+{
+	top:4%;
+	left:15%;
+}
+.textile  h3
+{
+	font-size:23px;
+}
+.line
+{
+	margin-left:14px;
+}
+.textile h4
+{
+	font-size:20px;
+	margin-left:-3px;
+	margin-top:36px;
+}
+.textile h2
+{
+	font-size:22px;
+	padding:4px;
+	margin-left:4px;
+}
+.man_sandals
+{
+	margin-top:15px;
+}
+
+.detail_history h3
+{
+	font-size:13px;
+}
+
+.detail_history h4
+{
+	font-size:15px;
+}
+
+.blog_image1 h3 , .blog_image2 h3 , .blog_image3 h3
+{
+	font-size:18px;
+}
+.signup_section h3
+{
+	font-size:19px;
+	text-indent:0px;
+}
+.contact_us ul li
+	{
+		font-size:13px;
+		}
+		
+		.footer_logo p
+{
+	font-size:13px;
+}
+.links ul li
+{
+	text-align:left;
+}
+.links h3
+{
+	text-align:left;
+}
+.links
+{
+	padding-top:45px;
+} 
+.contact_us
+{
+	padding-top:45px;
+}
+}
